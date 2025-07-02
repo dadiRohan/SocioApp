@@ -9,19 +9,30 @@ This repository having socio app file : .apk
 
 # Steps for View Forms
 
-![Screenshot 2025-06-16 171436](https://github.com/user-attachments/assets/ab38c6a9-11cd-495e-93fb-a7d50658aad1)
+![LandingPage](https://github.com/user-attachments/assets/8dd26e4f-5f56-4e13-99af-1bc884e42e66)
 
 
 
-![Screenshot 2025-06-16 171450](https://github.com/user-attachments/assets/a5779f90-170d-451c-a126-03cba1f37d8f)
+![LoginPage](https://github.com/user-attachments/assets/5a959f26-0cb5-46bb-a558-4302b821ab42)
+
+
+![RegisterPage](https://github.com/user-attachments/assets/af4b16ae-1c12-4e44-a535-a04fe97fdead)
 
 
 
-![Screenshot 2025-06-16 171541](https://github.com/user-attachments/assets/8543a1be-b4e9-4bf3-ac72-946ea33d4604)
+![HomePage](https://github.com/user-attachments/assets/34a67e7b-0c1e-4e8d-945a-110101ff4260)
 
 
 
-![Screenshot 2025-06-16 171602](https://github.com/user-attachments/assets/bf3593df-6b78-40d2-b4b1-2a6925490661)
+![ProfilePage](https://github.com/user-attachments/assets/915e0731-0bad-4a07-a676-4d7197a61e34)
+
+
+
+![StatPage](https://github.com/user-attachments/assets/3300ee5f-4f53-486f-8d29-32f204a98a0a)
+
+
+
+
 
 
 
