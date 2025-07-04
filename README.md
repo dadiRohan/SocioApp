@@ -9,9 +9,9 @@ This repository having socio app file : .apk
 
 # Steps for View Forms
 
-![LandingPage](https://github.com/user-attachments/assets/8dd26e4f-5f56-4e13-99af-1bc884e42e66)
 
 
+![LandingPage](https://github.com/user-attachments/assets/f11a8631-1136-4838-99b8-976f3df13a08)
 
 ![LoginPage](https://github.com/user-attachments/assets/5a959f26-0cb5-46bb-a558-4302b821ab42)
 
