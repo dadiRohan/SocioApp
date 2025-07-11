@@ -9,30 +9,13 @@ This repository having socio app file : .apk
 
 # Steps for View Forms
 
-
-
-![LandingPage](https://github.com/user-attachments/assets/f11a8631-1136-4838-99b8-976f3df13a08)
-
-![LoginPage](https://github.com/user-attachments/assets/5a959f26-0cb5-46bb-a558-4302b821ab42)
-
-
-![RegisterPage](https://github.com/user-attachments/assets/af4b16ae-1c12-4e44-a535-a04fe97fdead)
-
-
-
-![HomePage](https://github.com/user-attachments/assets/34a67e7b-0c1e-4e8d-945a-110101ff4260)
-
-
-
-![ProfilePage](https://github.com/user-attachments/assets/915e0731-0bad-4a07-a676-4d7197a61e34)
-
-
-
-![StatPage](https://github.com/user-attachments/assets/3300ee5f-4f53-486f-8d29-32f204a98a0a)
-
-
-
-
-
+<img width="436" height="883" alt="1" src="https://github.com/user-attachments/assets/796f60ac-0967-4319-a47c-868024b9f183" />
+<img width="436" height="883" alt="2" src="https://github.com/user-attachments/assets/56b53567-305e-4504-8857-8d5a348daee9" />
+<img width="436" height="883" alt="3" src="https://github.com/user-attachments/assets/1789a56b-d0da-4722-b646-a69c9526efa9" />
+<img width="436" height="883" alt="4" src="https://github.com/user-attachments/assets/ff7e122b-a788-49a1-9e2f-f2347333c4bc" />
+<img width="436" height="883" alt="5" src="https://github.com/user-attachments/assets/e961dad2-b67e-413b-a389-ca54e79b484c" />
+<img width="436" height="883" alt="6" src="https://github.com/user-attachments/assets/b858e8ff-492f-4cbe-ade2-eb1e69a8f764" />
+<img width="436" height="883" alt="7" src="https://github.com/user-attachments/assets/a9d3c434-cf7c-4c07-aa8e-f342042805fc" />
+<img width="436" height="883" alt="8" src="https://github.com/user-attachments/assets/16d89dd4-0945-48a0-9cb3-d19734078ccd" />
 
 
