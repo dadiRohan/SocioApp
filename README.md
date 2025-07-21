@@ -16,6 +16,7 @@ This repository having socio app file : .apk
 <img width="436" height="883" alt="5" src="https://github.com/user-attachments/assets/e961dad2-b67e-413b-a389-ca54e79b484c" />
 <img width="436" height="883" alt="6" src="https://github.com/user-attachments/assets/b858e8ff-492f-4cbe-ade2-eb1e69a8f764" />
 <img width="436" height="883" alt="7" src="https://github.com/user-attachments/assets/a9d3c434-cf7c-4c07-aa8e-f342042805fc" />
+<img width="436" height="883" alt="Gamification" src="https://github.com/user-attachments/assets/e2b6d07e-6713-491d-8090-c080fee77644" />
 <img width="436" height="883" alt="8" src="https://github.com/user-attachments/assets/16d89dd4-0945-48a0-9cb3-d19734078ccd" />
 
 
