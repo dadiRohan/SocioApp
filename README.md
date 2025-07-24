@@ -9,6 +9,8 @@ This repository having socio app file : .apk
 
 # Steps for View Forms
 
+<details>
+  <summary>Socio App Screens</summary>
 <img width="436" height="883" alt="1" src="https://github.com/user-attachments/assets/796f60ac-0967-4319-a47c-868024b9f183" />
 <img width="436" height="883" alt="2" src="https://github.com/user-attachments/assets/56b53567-305e-4504-8857-8d5a348daee9" />
 <img width="436" height="883" alt="3" src="https://github.com/user-attachments/assets/1789a56b-d0da-4722-b646-a69c9526efa9" />
@@ -18,5 +20,8 @@ This repository having socio app file : .apk
 <img width="436" height="883" alt="7" src="https://github.com/user-attachments/assets/a9d3c434-cf7c-4c07-aa8e-f342042805fc" />
 <img width="436" height="883" alt="Gamification" src="https://github.com/user-attachments/assets/e2b6d07e-6713-491d-8090-c080fee77644" />
 <img width="436" height="883" alt="8" src="https://github.com/user-attachments/assets/16d89dd4-0945-48a0-9cb3-d19734078ccd" />
+
+</details>
+
 
 
