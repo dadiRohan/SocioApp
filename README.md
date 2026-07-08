@@ -19,3 +19,7 @@ This repository having socio app file : .apk
 <img width="379" height="770" alt="8" src="https://github.com/user-attachments/assets/371af4eb-64d9-417b-9ffd-addaa75cb042" />
 <img width="379" height="770" alt="9" src="https://github.com/user-attachments/assets/77346a0d-6a5b-4ccb-af7e-ba399d252377" />
 <img width="379" height="770" alt="10" src="https://github.com/user-attachments/assets/6cf627a0-4a09-4cae-bf02-570bf15d72ac" />
+<img width="379" height="1418" alt="iPhone-14-PRO-www socioapp live" src="https://github.com/user-attachments/assets/5288617d-cd47-4ad3-9141-a032d2fecfec" />
+<img width="379" height="1418" alt="iPhone-14-PRO-www socioapp live (1)" src="https://github.com/user-attachments/assets/751a3bbc-2dd8-4bd3-821c-2b611eaa6611" />
+<img width="379" height="1418" alt="iPhone-14-PRO-www socioapp live (3)" src="https://github.com/user-attachments/assets/c7782d33-bdf7-47fb-baf3-abf70c2fec63" />
+<img width="379" height="1418" alt="iPhone-14-PRO-www socioapp live (2)" src="https://github.com/user-attachments/assets/62727f2e-9700-4490-8cf1-89ec177ed3b9" />
