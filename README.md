@@ -1,4 +1,4 @@
-# SocioApp
+# <img width="50" height="50" alt="icon" src="https://github.com/user-attachments/assets/8bbfb3fc-1e5f-4eea-904e-b653eacba731" /> Socio (Social Networking Platform)
 This repository having socio app file : .apk
 
 # Steps to Convert React Application to Android APK
